@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/olporslon/llmstreamer"
+	"github.com/alparslanyilmaaz/llmstreamer"
 )
 
 type errReadCloser struct{}

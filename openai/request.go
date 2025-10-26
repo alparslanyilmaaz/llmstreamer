@@ -1,6 +1,6 @@
 package openai
 
-import "github.com/olporslon/llmstreamer"
+import "github.com/alparslanyilmaaz/llmstreamer"
 
 type RequestBody struct {
 	Model     Model                 `json:"model"`

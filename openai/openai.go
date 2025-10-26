@@ -10,7 +10,7 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/olporslon/llmstreamer"
+	"github.com/alparslanyilmaaz/llmstreamer"
 )
 
 type OpenAIStreamer struct {
