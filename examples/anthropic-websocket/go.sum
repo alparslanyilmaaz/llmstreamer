@@ -1,0 +1,4 @@
+github.com/alparslanyilmaaz/llmstreamer v1.0.1 h1:Zf35iuyHYtK1Cz0HR41nbbM1rXw1JfpNp4VUTRDPrC0=
+github.com/alparslanyilmaaz/llmstreamer v1.0.1/go.mod h1:4g8zxyS8QSqGNkcx1eUVEuxgGKJSnrpkSSLpf+JxG+U=
+github.com/gorilla/websocket v1.5.3 h1:saDtZ6Pbx/0u+bgYQ3q96pZgCzfhKXGPqt7kZ72aNNg=
+github.com/gorilla/websocket v1.5.3/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
